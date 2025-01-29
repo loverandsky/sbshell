@@ -119,7 +119,7 @@
     ],
     
    "rule_set": [
-      { "tag": "adblock", "type": "remote", "format": "binary", "url": "http://gh.618451228.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/adblockplus.srs", "download_detour": "🚀 节点选择", "update_interval": 2400 },
+      { "tag": "adblock", "type": "remote", "format": "binary", "url": "http://gh.618451228.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/adblockplus.srs", "download_detour": "🚀 节点选择" },
       { "tag": "geosite-chat", "type": "remote", "format": "binary", "url": "http://gh.618451228.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-chat-!cn.srs", "download_detour": "🚀 节点选择" },
       { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "http://gh.618451228.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "🚀 节点选择" },
       { "tag": "geosite-google", "type": "remote", "format": "binary", "url": "http://gh.618451228.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs", "download_detour": "🚀 节点选择" },
