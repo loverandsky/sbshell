@@ -42,6 +42,10 @@
 
 "inbounds": [
   {
+    "auto_route": true,
+    "exclude_interface": [
+    "docker0"
+    ],
     "type": "tun",
     "address": "172.19.0.1/30",
     "mtu": 9000,
@@ -49,9 +53,6 @@
     "auto_redirect": true,
     "strict_route": true,
     "stack": "system",
-    "exclude_interface": [
-    "docker0"
-    ],
     "platform": {
       "http_proxy": {
         "enabled": true,
