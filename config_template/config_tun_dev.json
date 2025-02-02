@@ -50,8 +50,8 @@
     "strict_route": true,
     "stack": "system",
     "exclude_interface": [
-        "docker0"
-      ],
+    "docker0"
+    ],
     "platform": {
       "http_proxy": {
         "enabled": true,
