@@ -42,10 +42,6 @@
 
 "inbounds": [
   {
-    "auto_route": true,
-    "exclude_interface": [
-    "docker0"
-    ],
     "type": "tun",
     "address": "172.19.0.1/30",
     "mtu": 9000,
